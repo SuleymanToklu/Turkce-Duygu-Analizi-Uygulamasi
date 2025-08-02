@@ -32,8 +32,8 @@ Projeyi yerel makinenizde çalıştırmak için gereken adımlar oldukça basitt
 
 1. Projeyi İndirin veya Klonlayın
 
-git clone https://github.com/senin-kullanici-adin/proje-repo-adin.git
-cd proje-repo-adin
+git clone https://github.com/SuleymanToklu/Turkce-Duygu-Analizi-Uygulamasi.git
+cd Turkce-Duygu-Analizi-Uygulamasi
 
 2. Sanal Ortam Oluşturun ve Aktive Edin
 
